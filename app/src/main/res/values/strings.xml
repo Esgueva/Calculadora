@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="raiz">√</string>
+    <string name="porciento">%</string>
+    <string name="cuadrado">X²</string>
+    <string name="fraccion">1/X</string>
+    <string name="borradoCE">CE</string>
+    <string name="borradoC">C</string>
+    <string name="suprimir">SUP</string>
+    <string name="division">/</string>
+    <string name="siete">7</string>
+    <string name="ocho">8</string>
+    <string name="nueve">9</string>
+    <string name="multiplicacion">x</string>
+    <string name="cuatro">4</string>
+    <string name="cinco">5</string>
+    <string name="seis">6</string>
+    <string name="resta">-</string>
+    <string name="uno">1</string>
+    <string name="dos">2</string>
+    <string name="tres">3</string>
+    <string name="suma">+</string>
+    <string name="masMenos">±</string>
+    <string name="cero">0</string>
+    <string name="coma">.</string>
+    <string name="igual">=</string>
+    <string name="error">Inserte un numero para poder operar</string>
+    <string name="errorRaiz">Inserte un numero positivo para poder operar la raiz</string>
+    <string name="autor">San Jose Artesano - 2DAM 17/18 - Rodrigo Esgueva Ordóñez</string>
+</resources>
